@@ -13,11 +13,11 @@ As of writing this, it is the summer after my sophmore year of college studying 
 
 3. Most importantly, the savings! Eating high quality meat is expensive, a habit that reflects poorly on a savings account. With a Sous-Vide, I can buy large cuts of tougher, flavorful meat (i.e. tri-tip, hanger steak) and turn them into meals that are cheap and taste like a million bucks.
 
-So all in all, a Sous-Vide makes perfect sense. The only problem is, a high wattage, good quality Sous-Vide can cost $150 all the way to $400 dollars (since my original research there have been lower cost units have come out with lower wattages, but still beats those in all but looks) . With some extra time on my hands during the summer, I built the WATT.  
+So all in all, a Sous-Vide makes perfect sense. The only problem is, a high wattage, good quality Sous-Vide can cost $150 all the way to $400 dollars (since my original research there have been lower cost units have come out with lower wattages, but mine still beats those in all but looks) . With some extra time on my hands during the summer, I built the WATT.  
 
 
 # Parts List:
 
 Total cost: 
 
-# Eqiptment Used:
+# Equiptment Used:
