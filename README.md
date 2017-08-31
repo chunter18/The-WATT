@@ -17,7 +17,19 @@ So all in all, a Sous-Vide makes perfect sense. The only problem is, a high watt
 
 
 # Parts List:
+ITEM                                          PRICE (USD)                       LINK TO PRODUCT
+Arduino Nano                                  $3.00
+Camco 1000W Heater element                    $13.55
+Gorilla brand Silicone Sealant                $4.84
+
+Optional Items
+Small motor for water circulation
+Buzzer
 
 Total cost: 
+
+Many of the items here that are electronic in nature I had in my possesion already, making the cost lower. Substitutions can be made for most of these items for parts on hand in another build. 
+
+One thing that I didnt want to cheap out on was any part that handeled mains alternating current. As this is was a DIY project, and not thouroughly checked out by anybody but me, I decided to be extra safe. The relay, spade connectors, and wire all are rated for more current than they should ever reasonably be pulling. 
 
 # Equiptment Used:
