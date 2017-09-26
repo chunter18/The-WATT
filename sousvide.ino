@@ -69,15 +69,9 @@ double EEPROM_readDouble(int adress); //done
 
 /*
  * TODO
- * 1. fix weird added 9 bug on the timer 
- * 2. comment all code
- * 3. clean up all code - delete unused, restructure, add prototypes, move functions around
+ * 1. comment all code
+ * 2. clean up all code - delete unused, restructure, add prototypes, move functions around
  * and ut them in a better order (same as prot0types) - maybe use visual studio for this.
- * 4. add buzzer for DONE!
- * 5. add in support for a circulation motor
- * 6.LASTLY - post to github. work on write up of what it does, menus and their buttons, pictures of menus, parts,
- * different development pics, links to parts and where to get them, prices total, and final product.
- * 
  */
 
 
