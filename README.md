@@ -47,7 +47,7 @@ One thing that I didnt want to cheap out on was any part that handeled mains alt
 # Final Thoughts
 This build is still unrefined. While it has full functionality and can cook some delicious food, it is a pain to set up and looks very messy (which makes it slightly unsafe). The build definitely needs some polishing. In the future, I'd like to combine all the components into a single unit, along the lines of what was done in this photo: 
 
-![alt text](https://raw.githubusercontent.com/chunter18//branch/the-WATT/sous_vide_example.jpg
+![alt text](https://raw.githubusercontent.com/chunter18//branch/the-WATT/sous_vide_example.jpg)
 
 This would potientially mean designing a custom pcb which I would love to do. I would also love to move past a 16x2 LCD. I did the best I could with so little space, but the menu system could be cleaned up significantly. 
 
