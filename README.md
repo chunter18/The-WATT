@@ -17,19 +17,36 @@ So all in all, a Sous-Vide makes perfect sense. The only problem is, a high watt
 
 
 # Parts List:
-ITEM                                          PRICE (USD)                       LINK TO PRODUCT
-Arduino Nano                                  $3.00
-Camco 1000W Heater element                    $13.55
-Gorilla brand Silicone Sealant                $4.84
+| Item | Price (USD) | Link |
+|---|---|---|
+| Arduino Nano | $3.00 | | 
+| Camco 1000W Heater element | $13.55 | |
+| Solid State Relay| $9.95 | https://www.sparkfun.com/products/13015 |
+| Gorilla brand Silicone Sealant | $4.84 | |
+| Circulation Pump | $8.99 | |
+| Adafruit LCD Shield Kit | $19.95 | https://www.adafruit.com/product/772 |
+| Waterproof DS18B20 temperature sensor | $9.95 | https://www.adafruit.com/product/381 |
+| 1" Female Threaded Copper Coupling | $5-9 | |
+| AC Cable with plug | $0 (Chop one off an old appliance) | N/A |
+
+Tools/Equiptment
+-USB A to mini-B to program arduino
 
 Optional Items
-Small motor for water circulation
 Buzzer
 
-Total cost: 
+Total cost:
+$75.23
 
 Many of the items here that are electronic in nature I had in my possesion already, making the cost lower. Substitutions can be made for most of these items for parts on hand in another build. 
 
 One thing that I didnt want to cheap out on was any part that handeled mains alternating current. As this is was a DIY project, and not thouroughly checked out by anybody but me, I decided to be extra safe. The relay, spade connectors, and wire all are rated for more current than they should ever reasonably be pulling. 
 
-# Equiptment Used:
+# Pictures:
+
+# Final Thoughts
+This build is still unrefined. While it has full functionality and can cook some delicious food, it is a pain to set up and looks very messy (which makes it slightly unsafe). The build definitely needs some polishing. In the future, I'd like to combine all the components into a single unit, along the lines of what was done in this photo: PHOTO HERE
+
+This would potientially mean designing a custom pcb which I would love to do. I would also love to move past a 16x2 LCD. I did the best I could with so little space, but the menu system could be cleaned up significantly. 
+
+Though the WATT isnt exactly like I want at this point, it was still quite a bit of fun to build and will continue to pay dividends for quite some time!
